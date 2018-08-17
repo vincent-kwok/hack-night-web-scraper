@@ -1,3 +1,6 @@
+Attended a hack night at Avant on Wednesday, June 13, 2018.
+https://www.meetup.com/ChicagoRuby/events/gwrhpmyxjbrb/
+
 # Ruby Web Scraper
 
 Web scraping is a common method used to pull specific useful information from existing sites on the web. We are going to use it today to try to find out which Chicago Meetups serve food.
